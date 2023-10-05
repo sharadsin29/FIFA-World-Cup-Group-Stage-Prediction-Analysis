@@ -44,16 +44,16 @@ Here are the teams predicted to advance through the group stages:
   
 ### Comparison with Expert Predictions
 <p align="center">
-<img src="https://raw.githubusercontent.com/sharadsin29/FIFA-World-Cup-Group-Stage-Prediction-Analysis/master/img/CraigPred.png" width="250px" height="200px"/>
-<img src="https://raw.githubusercontent.com/sharadsin29/FIFA-World-Cup-Group-Stage-Prediction-Analysis/master/img/DanPred.png" width="250px" height="200px"/>
+<img src="https://github.com/sharadsin29/FIFA-World-Cup-Group-Stage-Prediction-Analysis/blob/main/img/CraigPred.png" width="250px" height="200px"/>
+<img src="https://github.com/sharadsin29/FIFA-World-Cup-Group-Stage-Prediction-Analysis/blob/main/img/DanPred.png" width="250px" height="200px"/>
 </p>
 <p align="center">
-<img src="https://raw.githubusercontent.com/sharadsin29/FIFA-World-Cup-Group-Stage-Prediction-Analysis/master/img/DonPred.png" width="250px" height="200px"/>
-<img src="https://raw.githubusercontent.com/sharadsin29/FIFA-World-Cup-Group-Stage-Prediction-Analysis/master/img/FrankPred.png" width="250px" height="200px"/>
+<img src="https://github.com/sharadsin29/FIFA-World-Cup-Group-Stage-Prediction-Analysis/blob/main/img/DonPred.png" width="250px" height="200px"/>
+<img src="https://github.com/sharadsin29/FIFA-World-Cup-Group-Stage-Prediction-Analysis/blob/main/img/FrankPred.png" width="250px" height="200px"/>
 </p>
 <p align="center">
-<img src="https://raw.githubusercontent.com/sharadsin29/FIFA-World-Cup-Group-Stage-Prediction-Analysis/master/img/ShakaPred.png" width="250px" height="200px"/>
-<img src="https://raw.githubusercontent.com/sharadsin29/FIFA-World-Cup-Group-Stage-Prediction-Analysis/master/img/GabPred.png" width="250px" height="200px"/>
+<img src="https://github.com/sharadsin29/FIFA-World-Cup-Group-Stage-Prediction-Analysis/blob/main/img/ShakaPred.png" width="250px" height="200px"/>
+<img src="https://github.com/sharadsin29/FIFA-World-Cup-Group-Stage-Prediction-Analysis/blob/main/img/GabPred.png" width="250px" height="200px"/>
 </p>
 
 
