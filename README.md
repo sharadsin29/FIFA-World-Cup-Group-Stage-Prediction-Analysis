@@ -43,6 +43,19 @@ Here are the teams predicted to advance through the group stages:
 - ...
   
 ### Comparison with Expert Predictions
+<p align="center">
+<img src="https://raw.githubusercontent.com/sharadsin29/FIFA-World-Cup-Group-Stage-Prediction-Analysis/master/img/CraigPred.png" width="250px" height="200px"/>
+<img src="https://raw.githubusercontent.com/sharadsin29/FIFA-World-Cup-Group-Stage-Prediction-Analysis/master/img/DanPred.png" width="250px" height="200px"/>
+</p>
+<p align="center">
+<img src="https://raw.githubusercontent.com/sharadsin29/FIFA-World-Cup-Group-Stage-Prediction-Analysis/master/img/DonPred.png" width="250px" height="200px"/>
+<img src="https://raw.githubusercontent.com/sharadsin29/FIFA-World-Cup-Group-Stage-Prediction-Analysis/master/img/FrankPred.png" width="250px" height="200px"/>
+</p>
+<p align="center">
+<img src="https://raw.githubusercontent.com/sharadsin29/FIFA-World-Cup-Group-Stage-Prediction-Analysis/master/img/ShakaPred.png" width="250px" height="200px"/>
+<img src="https://raw.githubusercontent.com/sharadsin29/FIFA-World-Cup-Group-Stage-Prediction-Analysis/master/img/GabPred.png" width="250px" height="200px"/>
+</p>
+
 
 ![Comparison Chart](comparison_chart.png)
 
