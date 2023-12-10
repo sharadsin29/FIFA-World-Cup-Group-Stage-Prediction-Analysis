@@ -31,7 +31,7 @@ The dataset includes xG values for international teams, sourced from Footystats.
 - **Source**: [Footystats](https://www.footystats.org/)
 - **Features**: Team Name, xG For, xG Against
 
-![Dataset Sample](dataset_sample.png)
+![Dataset Sample](https://github.com/sharadsin29/FIFA-World-Cup-Group-Stage-Prediction-Analysis/blob/main/img/dataset_sample.png)
 
 ## Methodology
 
@@ -109,6 +109,7 @@ Total Score: 13/16
 
 ## Conclusions
 As I reflect on the incredible spectacle that unfolded in Qatar, watched by approximately 5 billion people, I'm transported back to August 2022. It was three months before the start of the tournament, and I was deeply immersed in a project, part of an assignment that now holds a newfound significance. This piece of my past had slipped from my memory, but recently, my friend Samuel brought it back to my attention. His reminder has not only rekindled my interest but also connected me once again with the work I had almost forgotten amidst the grandeur of the global event.
+![Proof](https://github.com/sharadsin29/FIFA-World-Cup-Group-Stage-Prediction-Analysis/blob/main/img/proof.png)
 
 The results are impressive: my model correctly predicted 13 out of 16 outcomes, including the tournament's biggest shock – Morocco outqualifying Belgium, the world's number one ranked team at the time. Although my model foresaw this stunning upset, I was too skeptical to trust its predictions and prematurely abandoned the project without forecasting the rest of the tournament. Nevertheless, my model surpassed the predictions of many expert football analysts, thereby enhancing the credibility of its approach. Notably, none of the experts foresaw South Korea advancing, but my model recognized the potential in Heung Min Son's team. While all the experts favored Belgium, the world's number one team at the time, my model insightfully predicted their group stage falter, seeing beyond their top ranking.
 
