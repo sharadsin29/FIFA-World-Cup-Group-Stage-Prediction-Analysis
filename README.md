@@ -58,14 +58,14 @@ The dataset includes xG values for international teams, sourced from Footystats.
 
 Here are the teams predicted to advance through the group stages:
 
-- Group A: <span style="color: green;">Netherlands</span>, <span style="color: green;">Senegal</span>
-- Group B: <span style="color: green;">England</span>, <span style="color: green;">USA</span>
-- Group C: <span style="color: red;">Mexico</span>, <span style="color: green;">Argentina</span>
-- Group D: <span style="color: green;">France</span>, <span style="color: red;">Tunisia</span>
-- Group E: <span style="color: red;">Germany</span>, <span style="color: green;">Spain</span>
-- Group F: <span style="color: green;">Morocco</span>, <span style="color: green;">Croatia</span>
-- Group G: <span style="color: green;">Brazil</span>, <span style="color: green;">Switzerland</span>
-- Group H: <span style="color: green;">Portugal</span>, <span style="color: green;">South Korea</span>
+- Group A: <span style="color: green;"> 🟢 Netherlands</span>, <span style="color: green;"> 🟢 Senegal</span>
+- Group B: <span style="color: green;"> 🟢 England</span>, <span style="color: green;"> 🟢 USA</span>
+- Group C: <span style="color: red;"> 🔴 Mexico</span>, <span style="color: green;"> 🟢 Argentina</span>
+- Group D: <span style="color: green;"> 🟢 France</span>, <span style="color: red;"> 🔴 Tunisia</span>
+- Group E: <span style="color: red;"> 🔴 Germany</span>, <span style="color: green;"> 🟢 Spain</span>
+- Group F: <span style="color: green;"> 🟢 Morocco</span>, <span style="color: green;"> 🟢 Croatia</span>
+- Group G: <span style="color: green;"> 🟢 Brazil</span>, <span style="color: green;"> 🟢 Switzerland</span>
+- Group H: <span style="color: green;"> 🟢 Portugal</span>, <span style="color: green;"> 🟢 South Korea</span>
 
 Of the three predictions that the model incorrectly made, all three teams finished third in their respective groups, indicating that the predictions were not significantly off. Notably, both Germany and Mexico concluded with the same number of points as the second-placed teams in their groups, missing out on progression solely due to goal difference. Additionally, each of these three teams amassed a total of 4 points.
 
@@ -73,42 +73,44 @@ Total Score: 13/16
   
 ### Comparison with Expert Predictions
 
-<p align="center">
-  <img src="https://github.com/sharadsin29/FIFA-World-Cup-Group-Stage-Prediction-Analysis/blob/main/img/CraigPred.png" width="250px" height="200px"/>
-  <br>
-  <em>Craig's Prediction: 11/16</em>
-</p>
-<p align="center">
-  <img src="https://github.com/sharadsin29/FIFA-World-Cup-Group-Stage-Prediction-Analysis/blob/main/img/DanPred.png" width="250px" height="200px"/>
-  <br>
-  <em>Dan's Prediction: 10/16</em>
-</p>
-<p align="center">
-  <img src="https://github.com/sharadsin29/FIFA-World-Cup-Group-Stage-Prediction-Analysis/blob/main/img/DonPred.png" width="250px" height="200px"/>
-  <br>
-  <em>Don's Prediction: 12/16</em>
-</p>
-<p align="center">
-  <img src="https://github.com/sharadsin29/FIFA-World-Cup-Group-Stage-Prediction-Analysis/blob/main/img/FrankPred.png" width="250px" height="200px"/>
-  <br>
-  <em>Frank's Prediction: 9/16</em>
-</p>
-<p align="center">
-  <img src="https://github.com/sharadsin29/FIFA-World-Cup-Group-Stage-Prediction-Analysis/blob/main/img/ShakaPred.png" width="250px" height="200px"/>
-  <br>
-  <em>Shaka's Prediction: 10/16</em>
-</p>
-<p align="center">
-  <img src="https://github.com/sharadsin29/FIFA-World-Cup-Group-Stage-Prediction-Analysis/blob/main/img/GabPred.png" width="250px" height="200px"/>
-  <br>
-  <em>Gab's Prediction: 10/16</em>
-</p>
+<table>
+  <tr>
+    <td align="center">
+      <img src="https://github.com/sharadsin29/FIFA-World-Cup-Group-Stage-Prediction-Analysis/blob/main/img/CraigPred.png" width="250px" height="200px"/><br>
+      <em>Craig's Prediction: 11/16</em>
+    </td>
+    <td align="center">
+      <img src="https://github.com/sharadsin29/FIFA-World-Cup-Group-Stage-Prediction-Analysis/blob/main/img/DanPred.png" width="250px" height="200px"/><br>
+      <em>Dan's Prediction: 10/16</em>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://github.com/sharadsin29/FIFA-World-Cup-Group-Stage-Prediction-Analysis/blob/main/img/DonPred.png" width="250px" height="200px"/><br>
+      <em>Don's Prediction: 12/16</em>
+    </td>
+    <td align="center">
+      <img src="https://github.com/sharadsin29/FIFA-World-Cup-Group-Stage-Prediction-Analysis/blob/main/img/FrankPred.png" width="250px" height="200px"/><br>
+      <em>Frank's Prediction: 9/16</em>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://github.com/sharadsin29/FIFA-World-Cup-Group-Stage-Prediction-Analysis/blob/main/img/ShakaPred.png" width="250px" height="200px"/><br>
+      <em>Shaka's Prediction: 10/16</em>
+    </td>
+    <td align="center">
+      <img src="https://github.com/sharadsin29/FIFA-World-Cup-Group-Stage-Prediction-Analysis/blob/main/img/GabPred.png" width="250px" height="200px"/><br>
+      <em>Gab's Prediction: 10/16</em>
+    </td>
+  </tr>
+</table>
 
 
 ## Conclusions
 As I reflect on the incredible spectacle that unfolded in Qatar, watched by approximately 5 billion people, I'm transported back to August 2022. It was three months before the start of the tournament, and I was deeply immersed in a project, part of an assignment that now holds a newfound significance. This piece of my past had slipped from my memory, but recently, my friend Samuel brought it back to my attention. His reminder has not only rekindled my interest but also connected me once again with the work I had almost forgotten amidst the grandeur of the global event.
 
-The results are impressive: my model correctly predicted 13 out of 16 outcomes, including the tournament's biggest shock – Morocco outqualifying Belgium, the world's number one ranked team at the time. Although my model foresaw this stunning upset, I was too skeptical to trust its predictions and prematurely abandoned the project without forecasting the rest of the tournament. Nevertheless, my model outperformed many expert football pundits, lending credibility to the approach.
+The results are impressive: my model correctly predicted 13 out of 16 outcomes, including the tournament's biggest shock – Morocco outqualifying Belgium, the world's number one ranked team at the time. Although my model foresaw this stunning upset, I was too skeptical to trust its predictions and prematurely abandoned the project without forecasting the rest of the tournament. Nevertheless, my model surpassed the predictions of many expert football analysts, thereby enhancing the credibility of its approach. Notably, none of the experts foresaw South Korea advancing, but my model recognized the potential in Heung Min Son's team. While all the experts favored Belgium, the world's number one team at the time, my model insightfully predicted their group stage falter, seeing beyond their top ranking.
 
 I hope you've enjoyed this intersection of two of my passions: Football and Data Science. Thank you for reading this far.
 
